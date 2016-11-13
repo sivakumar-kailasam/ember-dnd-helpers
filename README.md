@@ -1,8 +1,8 @@
 # ember-dnd-helpers
 
-+[![Build Status](https://travis-ci.org/EmberSherpa/ember-dnd-helpers.svg)](https://travis-ci.org/EmberSherpa/ember-dnd-helpers)
-+[![npm version](https://badge.fury.io/js/ember-dnd-helpers.svg)](http://badge.fury.io/js/ember-dnd-helpers)
-+[![Dependency Status](https://david-dm.org/EmberSherpa/ember-dnd-helpers.svg)](https://david-dm.org/EmberSherpa/ember-dnd-helpers)
+[![Build Status](https://travis-ci.org/EmberSherpa/ember-dnd-helpers.svg)](https://travis-ci.org/EmberSherpa/ember-dnd-helpers)
+[![npm version](https://badge.fury.io/js/ember-dnd-helpers.svg)](http://badge.fury.io/js/ember-dnd-helpers)
+[![Dependency Status](https://david-dm.org/EmberSherpa/ember-dnd-helpers.svg)](https://david-dm.org/EmberSherpa/ember-dnd-helpers)
 
 ## `(drag-set 'plain/text' 'some text')`
 
